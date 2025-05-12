@@ -3773,6 +3773,7 @@ img.u-pull-left {
     color            : rgba(0, 0, 0, 0.75);
     overflow-y       : auto;
     position         : relative;
+     max-height: 90vh;
 }
 
 .modal-popup img {
